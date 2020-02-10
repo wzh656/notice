@@ -9,6 +9,6 @@
 			"high-exam":new Date(2024,6,1,8,0,0,0),
 			"die-time":new Date(2106,9,1,12,0,0,0)
 		},
-		"message":"疫情严峻，少出门，戴口罩。"
+		"message":"抗击疫情，少出门，多洗手，戴口罩。\nAnd开学After 3.1"
 	}
 }
