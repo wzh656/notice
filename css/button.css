@@ -1,7 +1,13 @@
+@font-face{
+	font-family:hwxk; /*华文楷体*/
+	src:url("../fonts/hwxk.ttf");
+}
+
 button{
 	margin: 0 auto;
 	background: #70c3ff;
-	color:white;
+	color: white;
+	font-family: hwxk;
 	font-size: 1rem;
 	text-align: center;
 	border-radius: 8px;
