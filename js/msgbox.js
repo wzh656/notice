@@ -38,7 +38,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "warning")?
 							$("<img/>")
-								.attr("src","https://wzh656.github.io/notice/warning.jpg")
+								.attr("src","https://wzh656.github.io/notice/icon/warning.jpg")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
@@ -46,7 +46,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "info")?
 							$("<img/>")
-								.attr("src","https://wzh656.github.io/notice/info.jpg")
+								.attr("src","https://wzh656.github.io/notice/icon/info.jpg")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
@@ -54,7 +54,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "info")?
 							$("<img/>")
-								.attr("src","https://wzh656.github.io/notice/info.jpg")
+								.attr("src","https://wzh656.github.io/notice/icon/info.jpg")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
@@ -62,7 +62,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "loading")?
 							$("<img/>")
-								.attr("src","https://wzh656.github.io/notice/loading.gif")
+								.attr("src","https://wzh656.github.io/notice/icon/loading.gif")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
