@@ -1,5 +1,6 @@
-function Choice(items){
+function Choice(items,back){
 	this.items=items;
+	this.back=back;
 	this.init=function(){
 		this.box=
 			$("<div></div>")
@@ -13,6 +14,14 @@ function Choice(items){
 						.css("background-color","#000")
 						.css("opacity","0.36")
 						.css("z-index","1")
+						.click(
+							back?
+								function(){	
+									this.close();
+								}
+							:
+								null
+						)
 				)
 				.append(
 					$("<div></div>")
