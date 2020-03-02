@@ -30,7 +30,7 @@ function Msgbox(title,message,button,icon){
 					.append(
 						(this.icon == "error")?
 							$("<img/>")
-								.attr("src","./image/icon/error.jpg")
+								.attr("src","https://wzh656.github.io/notice/icon/error.jpg")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
@@ -38,7 +38,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "warning")?
 							$("<img/>")
-								.attr("src","./image/icon/warning.jpg")
+								.attr("src","https://wzh656.github.io/notice/warning.jpg")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
@@ -46,7 +46,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "info")?
 							$("<img/>")
-								.attr("src","./image/icon/info.jpg")
+								.attr("src","https://wzh656.github.io/notice/info.jpg")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
@@ -54,7 +54,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "info")?
 							$("<img/>")
-								.attr("src","./image/icon/info.jpg")
+								.attr("src","https://wzh656.github.io/notice/info.jpg")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
@@ -62,7 +62,7 @@ function Msgbox(title,message,button,icon){
 								.css("height","46px")
 						:(this.icon == "loading")?
 							$("<img/>")
-								.attr("src","./image/icon/loading.gif")
+								.attr("src","https://wzh656.github.io/notice/loading.gif")
 								.css("position","absolute")
 								.css("left","8%")
 								.css("top","8%")
