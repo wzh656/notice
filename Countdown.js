@@ -3,64 +3,64 @@
 		"元旦（2020）": {
 			"start": new Date(2020,0,1,0,0,0,0),
 			"end": new Date(2020,0,1,0,0,0,0),
-			"color":"#0ff",
-			"background-color":"#f00"
+			"color": "#0ff",
+			"background-color": "#f00"
 		},
 		"期末考试（八上）": {
 			"start": new Date(2020,0,13,8,0,0,0),
 			"end": new Date(2020,0,15,17,0,0,0),
-			"color":"#59c",
-			"background-color":"#a63"
+			"color": "#59c",
+			"background-color": "#a63"
 		},
 		"春节（2020）": {
 			"start": new Date(2020,0,25,0,0,0,0),
 			"end": new Date(2020,0,25,0,0,0,0),
-			"color":"#0ff",
-			"background-color":"#f00"
+			"color": "#0ff",
+			"background-color": "#f00"
 		},
 		"<b style='color:red;'>线上考试*1！</b>": {
 			"start": new Date(2020,2,7,9,0,0,0),
 			"end": new Date(2020,2,8,20,0,0,0),
-			"color":"#59c",
-			"background-color":"#a63"
+			"color": "#59c",
+			"background-color": "#a63"
 		},
 		"<b style='color:red;'>线上考试（月考）*2！！</b>": {
 			"start": new Date(2020,2,24,19,0,0,0),
 			"end": new Date(2020,2,29,21,0,0,0),
-			"color":"#59c",
-			"background-color":"#a63"
+			"color": "#59c",
+			"background-color": "#a63"
 		},
 		"开学（八下）": {
 			"start": new Date(2020,3,7,8,0,0,0),
 			"end": new Date(2020,3,7,8,0,0,0),
-			"color":"#111",
-			"background-color":"#eee"
+			"color": "#111",
+			"background-color": "#eee"
 		},
 		"<b style='color:red;'>期中考试</b>": {
 			"start": new Date(2020,3,1,8,0,0,0),
 			"end": new Date(2020,3,3,8,0,0,0),
-			"color":"#59c",
-			"background-color":"#a63"
+			"color": "#59c",
+			"background-color": "#a63"
 		},
 		"中考": {
 			"start": new Date(2021,6,1,8,0,0,0),
 			"end": new Date(2021,6,3,16,0,0,0),
-			"color":"#59c",
-			"background-color":"#a63"
+			"color": "#59c",
+			"background-color": "#a63"
 		},
 		"高考": {
 			"start": new Date(2024,6,1,8,0,0,0),
 			"end": new Date(2024,6,3,16,0,0,0),
-			"color":"#59c",
-			"background-color":"#a63"
+			"color": "#59c",
+			"background-color": "#a63"
 		},
 		"desk-good死亡": {
 			"start": new Date(2106,0,15,12,0,0,0),
 			"end": new Date(2106,0,15,12,5,0,0),
-			"color":"#fff",
-			"background-color":"#000"
+			"color": "#fff",
+			"background-color": "#000"
 		}
 	},
 	"color": 4,
-	"message":"No,即将线上月考（3.24）！\n怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂" 
+	"message": "No,即将期中考试！\n怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂" 
 }
