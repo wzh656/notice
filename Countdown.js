@@ -44,13 +44,13 @@
 		},
 		"中考": {
 			"start": new Date(2021,6,1,8,0,0,0),
-			"end": new Date(2021,6,3,16,0,0,0),
+			"end": new Date(2021,5,16,8,0,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
 		"高考": {
 			"start": new Date(2024,6,1,8,0,0,0),
-			"end": new Date(2024,6,3,16,0,0,0),
+			"end": new Date(2024,5,6,8,0,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
