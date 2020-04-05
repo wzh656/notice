@@ -31,7 +31,7 @@
 			"background-color": "#a63"
 		},
 		"开学（八下）": {
-			"start": new Date(2020,3,7,8,0,0,0),
+			"start": new Date(2020,3,21,8,0,0,0),
 			"end": new Date(2020,3,21,8,0,0,0),
 			"color": "#111",
 			"background-color": "#eee"
