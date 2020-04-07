@@ -26,21 +26,21 @@
 		},
 		"<b style='color:red;'>线上考试（月考）*2！！</b>": {
 			"start": new Date(2020,2,24,19,0,0,0),
-			"end": new Date(2020,2,29,21,0,0,0),
+			"end": new Date(2020,2,29,21,10,0,0),
+			"color": "#59c",
+			"background-color": "#a63"
+		},
+		"<b style='color:red;'>线上考试*3！！！</b>": {
+			"start": new Date(2020,3,13,19,0,0,0),
+			"end": new Date(2020,3,18,21,10,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
 		"开学（八下）": {
-			"start": new Date(2020,3,21,8,0,0,0),
-			"end": new Date(2020,3,21,8,0,0,0),
+			"start": new Date(2020,4,21,8,0,0,0),
+			"end": new Date(2020,4,21,8,0,0,0),
 			"color": "#111",
 			"background-color": "#eee"
-		},
-		"<b style='color:red;'>期中考试</b>": {
-			"start": new Date(2020,3,1,8,0,0,0),
-			"end": new Date(2020,3,3,8,0,0,0),
-			"color": "#59c",
-			"background-color": "#a63"
 		},
 		"中考": {
 			"start": new Date(2021,6,1,8,0,0,0),
