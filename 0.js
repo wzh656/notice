@@ -19,20 +19,30 @@
 			"background-color": "#f00"
 		},
 		"<b style='color:red;'>线上考试*1！</b>": {
-			"start": new Date(2020,2,7,9,0,0,0),
-			"end": new Date(2020,2,8,20,0,0,0),
+			"start": new Date(2020,3,7,9,0,0,0),
+			"end": new Date(2020,3,8,20,0,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
 		"<b style='color:red;'>线上考试（月考）*2！！</b>": {
+<<<<<<< HEAD
 			"start": new Date(2020,2,24,19,0,0,0),
 			"end": new Date(2020,2,29,21,10,0,0),
+=======
+			"start": new Date(2020,3,24,19,0,0,0),
+			"end": new Date(2020,3,29,21,10,0,0),
+>>>>>>> 5fd25b6db5ad5e53fc2de74c9d4735d60fa763d4
 			"color": "#59c",
 			"background-color": "#a63"
 		},
 		"<b style='color:red;'>线上考试*3！！！</b>": {
+<<<<<<< HEAD
 			"start": new Date(2020,3,13,19,0,0,0),
 			"end": new Date(2020,3,18,21,10,0,0),
+=======
+			"start": new Date(2020,4,13,19,0,0,0),
+			"end": new Date(2020,4,18,21,10,0,0),
+>>>>>>> 5fd25b6db5ad5e53fc2de74c9d4735d60fa763d4
 			"color": "#59c",
 			"background-color": "#a63"
 		},
