@@ -37,8 +37,8 @@
 			"background-color": "#a63"
 		},
 		"<b style='color:red;'>线上考试*4！！！！！！</b>": {
-			"start": new Date(2020,3,25,8,0,0,0),
-			"end": new Date(2020,3,26,2,10,0,0),
+			"start": new Date(2020,3,25,8,20,0,0),
+			"end": new Date(2020,3,26,20,10,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
