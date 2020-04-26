@@ -38,7 +38,7 @@
 		},
 		"<h3 style='color:red;'>线上考试*4！！！！！！</h3>": {
 			"start": new Date(2020,3,25,8,20,0,0),
-			"end": new Date(2020,3,26,20,10,0,0),
+			"end": new Date(2020,3,28,21,0,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
