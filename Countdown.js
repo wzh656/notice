@@ -43,8 +43,8 @@
 			"background-color": "#a63"
 		},
 		"开学（八下）（<h3 style='color:red;'>开学考！！！！！！！！！！！！！！！！！！！！</h3>）": {
-			"start": new Date(2020,4,7,8,0,0,0),
-			"end": new Date(2020,4,7,8,0,0,0),
+			"start": new Date(2020,4,11,8,0,0,0),
+			"end": new Date(2020,4,11,8,0,0,0),
 			"color": "#111",
 			"background-color": "#eee"
 		},
