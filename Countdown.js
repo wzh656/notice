@@ -48,6 +48,12 @@
 			"color": "#111",
 			"background-color": "#eee"
 		},
+		"<h3 style='color:red;'>线上考试*5！！！！！！</h3>": {
+			"start": new Date(2020,4,5,8,0,0,0),
+			"end": new Date(2020,4,5,17,40,0,0),
+			"color": "#59c",
+			"background-color": "#a63"
+		},
 		"开学（八下）（<h3 style='color:red;'>开学考！！！！！！！！！！！！！！！！！！！！</h3>）": {
 			"start": new Date(2020,4,11,8,0,0,0),
 			"end": new Date(2020,4,11,8,0,0,0),
