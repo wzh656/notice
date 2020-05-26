@@ -54,9 +54,15 @@
 			"color": "#59c",
 			"background-color": "#a63"
 		},
-		"开学（八下）（<h3 style='color:red;'>开学考！！！！！！！！！！！！！！！！！！！！</h3>）": {
+		"开学（八下）（<h3 style='color:red;'>开学考！！！！！！</h3>）": {
 			"start": new Date(2020,4,11,8,0,0,0),
 			"end": new Date(2020,4,11,8,0,0,0),
+			"color": "#111",
+			"background-color": "#eee"
+		},
+		"<h3 style='color:red;'>第三次月考（八下）（预计）！！！！！！</h3>）": {
+			"start": new Date(2020,6,1,8,0,0,0),
+			"end": new Date(2020,6,12,17,0,0,0),
 			"color": "#111",
 			"background-color": "#eee"
 		},
