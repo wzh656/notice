@@ -66,11 +66,29 @@
 			"color": "#59c",
 			"background-color": "#a63"
 		},
-		"<h3 style='color:red;'>学科素养考试（八下）！！！！！！</h3>）": {
-			"start": new Date(2020,5,12,8,0,0,0),
-			"end": new Date(2020,5,12,17,40,0,0),
+		"<h3 style='color:red;'>学科素养考试（八下）！！！</h3>）": {
+			"start": new Date(2020,5,16,8,0,0,0),
+			"end": new Date(2020,5,16,17,40,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
+		},
+		"<h3 style='color:red;'>三校联考（八下）！！！！！！</h3>）": {
+			"start": new Date(2020,5,26,8,0,0,0),
+			"end": new Date(2020,5,27,17,40,0,0),
+			"color": "#59c",
+			"background-color": "#a63"
+		},
+		"<h3 style='color:red;'>期末考试（八下）！！！！！！</h3>）": {
+			"start": new Date(2020,6,9,8,0,0,0),
+			"end": new Date(2020,6,11,17,40,0,0),
+			"color": "#59c",
+			"background-color": "#a63"
+		},
+		"暑假（2020）": {
+			"start": new Date(2020,6,15,10,0,0,0),
+			"end": new Date(2020,8,1,8,0,0,0),
+			"color": "#0ff",
+			"background-color": "#f00"
 		},
 		"中考": {
 			"start": new Date(2021,6,1,8,0,0,0),
@@ -92,5 +110,5 @@
 		}
 	},
 	"color": 9,
-	"message": "No,即将马上就要考学科素养了！果然又恢复了每隔7天必有一考！桌子好就要跑1500光年了！\n怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂……"
+	"message": "No,即将马上就要考学科素养+三校联考+期末考试了！然后就放暑假了！\nbut桌子好就要跑1500光年了！怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂……"
 }
