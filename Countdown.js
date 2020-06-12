@@ -67,8 +67,8 @@
 			"background-color": "#a63"
 		},
 		"<h3 style='color:red;'>学科素养考试（八下）！！！</h3>）": {
-			"start": new Date(2020,5,16,8,0,0,0),
-			"end": new Date(2020,5,16,17,40,0,0),
+			"start": new Date(2020,5,15,8,30,0,0),
+			"end": new Date(2020,5,15,17,50,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
@@ -79,8 +79,8 @@
 			"background-color": "#a63"
 		},
 		"<h3 style='color:red;'>期末考试（八下）！！！！！！</h3>）": {
-			"start": new Date(2020,6,9,8,0,0,0),
-			"end": new Date(2020,6,11,17,40,0,0),
+			"start": new Date(2020,6,10,8,0,0,0),
+			"end": new Date(2020,6,12,17,40,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
