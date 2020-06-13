@@ -73,8 +73,8 @@
 			"background-color": "#a63"
 		},
 		"<h3 style='color:red;'>三校联考（八下）！！！！！！</h3>）": {
-			"start": new Date(2020,5,26,8,0,0,0),
-			"end": new Date(2020,5,27,17,40,0,0),
+			"start": new Date(2020,5,29,8,0,0,0),
+			"end": new Date(2020,5,30,17,40,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
