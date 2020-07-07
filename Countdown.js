@@ -73,14 +73,14 @@
 			"background-color": "#a63"
 		},
 		"<h3 style='color:red;'>期末考试（八下）！！！！！！</h3>）": {
-			"start": new Date(2020,6,10,8,0,0,0),
-			"end": new Date(2020,6,12,12,0,0,0),
+			"start": new Date(2020,6,10,8,30,0,0),
+			"end": new Date(2020,6,12,16,10,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
 		"暑假（2020）": {
-			"start": new Date(2020,6,15,10,0,0,0),
-			"end": new Date(2020,8,1,8,0,0,0),
+			"start": new Date(2020,6,16,0,0,0,0),
+			"end": new Date(2020,7,29,8,0,0,0),
 			"color": "#0ff",
 			"background-color": "#f00"
 		},
