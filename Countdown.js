@@ -54,25 +54,25 @@
 			"color": "#59c",
 			"background-color": "#a63"
 		},
-		"开学（八下）（<h3 style='color:red;'>开学考！！！！！！</h3>）": {
+		"开学（八下）（<h3 style='color:red;display:inline;'>开学考！！！！！！</h3>）": {
 			"start": new Date(2020,4,11,8,0,0,0),
 			"end": new Date(2020,4,11,8,0,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
-		"<h3 style='color:red;'>期中考（八下）！！！！！！</h3>）": {
+		"<h3 style='color:red;'>期中考（八下）！！！！！！</h3>": {
 			"start": new Date(2020,5,4,9,30,0,0),
 			"end": new Date(2020,5,5,15,55,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
-		"<h3 style='color:red;'>学科素养考试（八下）！！！</h3>）": {
+		"<h3 style='color:red;'>学科素养考试（八下）！！！</h3>": {
 			"start": new Date(2020,5,15,8,30,0,0),
 			"end": new Date(2020,5,15,17,50,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
-		"<h3 style='color:red;'>期末考试（八下）！！！！！！</h3>）": {
+		"<h3 style='color:red;'>期末考试（八下）！！！！！！</h3>": {
 			"start": new Date(2020,6,10,8,30,0,0),
 			"end": new Date(2020,6,12,16,10,0,0),
 			"color": "#59c",
