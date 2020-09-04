@@ -80,13 +80,19 @@
 		},
 		"暑假（2020）": {
 			"start": new Date(2020,6,16,0,0,0,0),
-			"end": new Date(2020,7,29,8,0,0,0),
+			"end": new Date(2020,7,31,8,0,0,0),
 			"color": "#0ff",
 			"background-color": "#f00"
 		},
-		"<h3 style='color:red;'>开学考（九上）</h3>": {
-			"start": new Date(2020,8,1,8,10,0,0),
-			"end": new Date(2020,8,1,17,40,0,0),
+		"生日（2020）": {
+			"start": new Date(2020,9,1,0,0,0,0),
+			"end": new Date(2020,9,1,24,0,0,0),
+			"color": "#c39",
+			"background-color": "#3c6"
+		},
+		"<h3 style='color:red;'>第一次月考（九下）！</h3>": {
+			"start": new Date(2020,9,8,8,30,0,0),
+			"end": new Date(2020,9,10,16,10,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
@@ -109,6 +115,6 @@
 			"background-color": "#000"
 		}
 	},
-	"color": 14,
+	"color": 15,
 	"message": "No,即将马上就要上九年级毕业班了，马上就开学考了，然后马上就要中考了！！！\nAnd桌子好又双叒叕要跑1500光年+下雨天看树和草了！怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂……"
 }
