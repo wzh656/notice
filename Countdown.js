@@ -85,8 +85,8 @@
 			"background-color": "#f00"
 		},
 		"<h3 style='color:red;'>第一次月考（九下）！</h3>": {
-			"start": new Date(2020,8,28,8,10,0,0),
-			"end": new Date(2020,8,29,16,40,0,0),
+			"start": new Date(2020,8,27,8,40,0,0),
+			"end": new Date(2020,8,28,17,0,0,0),
 			"color": "#59c",
 			"background-color": "#a63"
 		},
