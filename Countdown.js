@@ -84,17 +84,17 @@
 			"color": "#0ff",
 			"background-color": "#f00"
 		},
+		"<h3 style='color:red;'>第一次月考（九下）！</h3>": {
+			"start": new Date(2020,8,27,8,40,0,0),
+			"end": new Date(2020,8,28,17,0,0,0),
+			"color": "#59c",
+			"background-color": "#a63"
+		},
 		"生日（2020）": {
 			"start": new Date(2020,9,1,0,0,0,0),
 			"end": new Date(2020,9,1,24,0,0,0),
 			"color": "#73c",
 			"background-color": "#8c3"
-		},
-		"<h3 style='color:red;'>第一次月考（九下）！</h3>": {
-			"start": new Date(2020,9,8,8,10,0,0),
-			"end": new Date(2020,9,10,16,40,0,0),
-			"color": "#59c",
-			"background-color": "#a63"
 		},
 		"中考": {
 			"start": new Date(2021,5,17,8,0,0,0),
@@ -115,6 +115,6 @@
 			"background-color": "#000"
 		}
 	},
-	"color": 15,
+	"color": 14,
 	"message": `No,即将马上第一次月考了！然后马上只有${(new Date(2021,5,17,8)-new Date)/1000/3600/24}天就要中考了！！！\nAnd桌子好又双叒叕要跑1500光年+下雨天看树和草了！怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂……`
 }
