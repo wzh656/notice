@@ -97,8 +97,8 @@
 			"background-color": "#f36"
 		},
 		"体育节（九）": {
-			"start": new Date(2020,10,4,9,0,0,0),
-			"end": new Date(2020,10,6,17,0,0,0),
+			"start": new Date(2020,10,2,9,0,0,0),
+			"end": new Date(2020,10,4,17,0,0,0),
 			"color": "#0f0",
 			"background-color": "#f00"
 		},
