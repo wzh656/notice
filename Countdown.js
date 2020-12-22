@@ -102,17 +102,23 @@
 			"color": "#0f0",
 			"background-color": "#f00"
 		},
-		"期中考试（九上）": {
-			"start": new Date(2021,10,12,8,10,0,0),
-			"end": new Date(2021,10,13,17,30,0,0),
+		"<h3 style='color:red;'>期中考试（九上）</h3>": {
+			"start": new Date(2020,10,12,8,10,0,0),
+			"end": new Date(2020,10,13,17,30,0,0),
 			"color": "#4D99FF",
 			"background-color": "#a63"
 		},
-		"三校联考（九上）": {
-			"start": new Date(2021,11,21,8,30,0,0),
-			"end": new Date(2021,11,22,17,10,0,0),
+		"<h3 style='color:red;'>三校联考（九上）</h3>": {
+			"start": new Date(2020,11,21,8,30,0,0),
+			"end": new Date(2020,11,22,17,10,0,0),
 			"color": "#4D99FF",
 			"background-color": "#a63"
+		},
+		"元旦（2021）": {
+			"start": new Date(2021,0,1,0,0,0,0),
+			"end": new Date(2021,0,1,0,0,0,0),
+			"color": "#0f0",
+			"background-color": "#f00"
 		},
 		"中考": {
 			"start": new Date(2021,5,17,8,0,0,0),
@@ -133,6 +139,6 @@
 			"background-color": "#000"
 		}
 	},
-	"color": 19,
+	"color": 20,
 	"message": `只有${(new Date(2021,5,17,8)-new Date)/1000/3600/24}天就要中考了！！！\nAnd桌子好又双叒叕要跑1500光年+下雨天看树和草了！怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂……`
 }
