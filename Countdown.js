@@ -102,9 +102,15 @@
 			"color": "#0f0",
 			"background-color": "#f00"
 		},
-		"期中考试": {
-			"start": new Date(2021,11,12,8,10,0,0),
-			"end": new Date(2021,11,13,17,30,0,0),
+		"期中考试（九上）": {
+			"start": new Date(2021,10,12,8,10,0,0),
+			"end": new Date(2021,10,13,17,30,0,0),
+			"color": "#4D99FF",
+			"background-color": "#a63"
+		},
+		"三校联考（九上）": {
+			"start": new Date(2021,11,21,8,30,0,0),
+			"end": new Date(2021,11,22,17,10,0,0),
 			"color": "#4D99FF",
 			"background-color": "#a63"
 		},
@@ -120,13 +126,13 @@
 			"color": "#4D99FF",
 			"background-color": "#a63"
 		},
-		"desk-good死亡": {
+		"deskgood死亡": {
 			"start": new Date(2106,0,15,12,0,0,0),
 			"end": new Date(2106,0,15,12,5,0,0),
 			"color": "#fff",
 			"background-color": "#000"
 		}
 	},
-	"color": 17,
-	"message": `即将体育节了,deskgood终于可以跑1500了！Oh No,只有${(new Date(2020,11,12,8,10)-new Date)/1000/3600/24}天期中考试了！然后马上只有${(new Date(2021,5,17,8)-new Date)/1000/3600/24}天就要中考了！！！\nAnd桌子好又双叒叕要跑1500光年+下雨天看树和草了！怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂……`
+	"color": 19,
+	"message": `只有${(new Date(2021,5,17,8)-new Date)/1000/3600/24}天就要中考了！！！\nAnd桌子好又双叒叕要跑1500光年+下雨天看树和草了！怎么办，凉拌炒鸡蛋，不好吃也不好看，放点砒霜，吃了就上天堂……`
 }
