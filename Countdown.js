@@ -121,8 +121,8 @@
 			"background-color": "#f00"
 		},
 		"<h3 style='color:red;'>期末考试（九上）</h3>": {
-			"start": new Date(2021,0,25,8,30,0,0),
-			"end": new Date(2021,0,27,17,0,0,0),
+			"start": new Date(2021,0,28,8,30,0,0),
+			"end": new Date(2021,0,30,12,0,0,0),
 			"color": "#4D99FF",
 			"background-color": "#a63"
 		},
